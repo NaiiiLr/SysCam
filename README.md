@@ -21,7 +21,7 @@ O projeto utiliza um .gitignore na raiz que protege ambas as pastas
 A interface foi construída focando em performance extrema e experiência do usuário (UX).
 
 ### Tecnologias Principais
-* **Next.js 15+** (App Router)
+* **Next.js 16** (App Router)
 * **TypeScript** (Tipagem estática)
 * **Styled Components** (Estilização via CSS-in-JS com SSR)
 * **React Compiler** (Otimização automática de performance)
